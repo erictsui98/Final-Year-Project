@@ -26,7 +26,7 @@ if __name__ == "__main__":
     
     print("Determining k ....");
     
-    y=5
+    y=20
     # k means determine k
     distortions = []
     k_range = range(3,y)
